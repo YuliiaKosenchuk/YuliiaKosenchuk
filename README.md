@@ -1,16 +1,16 @@
-## Hi there 👋
+<pre> Hi, I,m Yuliia👋 </pre>
 
-<!--
-**YuliiaKosenchuk/YuliiaKosenchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 How to reach me:
 
-Here are some ideas to get you started:
+![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyuliia-kosenchuk%2F)
+![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=white&link=yuliia.kosenchuk%40gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Top Technologies
+![Static Badge](https://img.shields.io/badge/REACT-%2361DAFB?logo=react&logoColor=black) ![Static Badge](https://img.shields.io/badge/REACT%20HOOK%20FORM-%23EC5990?logo=reacthookform&logoColor=black)
+ ![Static Badge](https://img.shields.io/badge/REDUX-%23764ABC?logo=redux&logoColor=black)
+ ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?logo=javascript&logoColor=black)  ![Static Badge](https://img.shields.io/badge/TYPESCRIPT-%233178C6?logo=typescript&logoColor=black) ![Static Badge](https://img.shields.io/badge/SASS-%23CC6699?logo=sass&logoColor=white) ![Static Badge](https://img.shields.io/badge/BULMA-%2300D1B2?logo=bulma&logoColor=black)
+
+
+
+
+
