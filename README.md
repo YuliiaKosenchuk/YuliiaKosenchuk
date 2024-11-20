@@ -2,9 +2,6 @@
 
 📫 How to reach me:
 
-[![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuliia-kosenchuk/)
-[![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to)
-
 <a href="https://www.linkedin.com/in/yuliia-kosenchuk/" target="_blank">
   <img src="https://img.shields.io/badge/Linkedin-%230A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
