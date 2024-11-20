@@ -5,6 +5,10 @@
 ![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyuliia-kosenchuk%2F)
 ![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=white&link=yuliia.kosenchuk%40gmail.com)
 
+[![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuliia-kosenchuk/)
+[![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to
+
+
 #### Top Technologies
  ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?logo=javascript&logoColor=black)  ![Static Badge](https://img.shields.io/badge/TYPESCRIPT-%233178C6?logo=typescript&logoColor=black) 
 
