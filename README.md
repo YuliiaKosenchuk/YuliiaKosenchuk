@@ -18,7 +18,7 @@
 ![Static Badge](https://img.shields.io/badge/REACT-%2361DAFB?logo=react&logoColor=black)
  ![Static Badge](https://img.shields.io/badge/REDUX-%23764ABC?logo=redux&logoColor=black)
  
- ![Static Badge](https://img.shields.io/badge/SASS-%23CC6699?logo=sass&logoColor=white) ![Static Badge](https://img.shields.io/badge/BULMA-%2300D1B2?logo=bulma&logoColor=black) ![Static Badge](https://img.shields.io/badge/PRIMEREACT-%2303C4E8?logo=primereact&logoColor=black) ![Static Badge](https://img.shields.io/badge/REACT%20HOOK%20FORM-%23EC5990?logo=reacthookform&logoColor=black) ![Static Badge](https://img.shields.io/badge/FORMIK-%232563EB?logo=formik&logoColor=black)
+ ![Static Badge](https://img.shields.io/badge/BULMA-%2300D1B2?logo=bulma&logoColor=black) ![Static Badge](https://img.shields.io/badge/PRIMEREACT-%2303C4E8?logo=primereact&logoColor=black) ![Static Badge](https://img.shields.io/badge/REACT%20HOOK%20FORM-%23EC5990?logo=reacthookform&logoColor=black) ![Static Badge](https://img.shields.io/badge/FORMIK-%232563EB?logo=formik&logoColor=black)
 
 
 
