@@ -17,7 +17,8 @@
 
 ![Static Badge](https://img.shields.io/badge/REACT-%2361DAFB?logo=react&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/REDUX-%23764ABC?logo=redux&logoColor=black)
-![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+[![Static Badge](https://img.shields.io/badge/GULP-%23CF4647?logo=gulp&logoColor=white)](https://gulpjs.com/)
+
 
 
  
