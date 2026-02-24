@@ -13,7 +13,14 @@
 
 
 #### Top Technologies
- ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?logo=javascript&logoColor=black)  ![Static Badge](https://img.shields.io/badge/TYPESCRIPT-%233178C6?logo=typescript&logoColor=black) 
+### 🛠 Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-%23CF649A?style=flat&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%233178C6?style=flat&logo=typescript&logoColor=white)
+![BEM](https://img.shields.io/badge/BEM-%23000000?style=flat&logo=bem&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/REACT-%2361DAFB?logo=react&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/REDUX-%23764ABC?logo=redux&logoColor=black)
