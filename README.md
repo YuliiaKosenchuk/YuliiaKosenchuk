@@ -23,6 +23,7 @@
 ![BEM](https://img.shields.io/badge/BEM-%23000000?style=flat&logo=bem&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/REACT-%2361DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/NEXT.JS-%23000000?logo=nextdotjs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/REDUX-%23764ABC?logo=redux&logoColor=black)
 [![Static Badge](https://img.shields.io/badge/GULP-%23CF4647?logo=gulp&logoColor=white)](https://gulpjs.com/)
 
