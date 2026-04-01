@@ -1,6 +1,6 @@
 <pre> Hi, I,m Yuliia👋
 Junior Frontend Developer passionate about building clean and user-friendly interfaces.
-🌱 Currently learning: Next.js / Testing / Performance optimization
+🌱 Currently learning: Next.js / AWS / Testing / Performance optimization
 💼 Open to: Junior Frontend Developer positions
 📍 Based in: Europe</pre>
 
