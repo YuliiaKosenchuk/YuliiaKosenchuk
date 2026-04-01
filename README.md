@@ -1,4 +1,8 @@
-<pre> Hi, I,m Yuliia👋 </pre>
+<pre> Hi, I,m Yuliia👋
+Junior Frontend Developer passionate about building clean and user-friendly interfaces.
+🌱 Currently learning: Next.js / Testing / Performance optimization
+💼 Open to: Junior Frontend Developer positions
+📍 Based in: Europe</pre>
 
 📫 How to reach me:
 
