@@ -30,7 +30,11 @@
 
 
  
- ![Static Badge](https://img.shields.io/badge/BULMA-%2300D1B2?logo=bulma&logoColor=black) ![Static Badge](https://img.shields.io/badge/REACT%20HOOK%20FORM-%23EC5990?logo=reacthookform&logoColor=black) ![Static Badge](https://img.shields.io/badge/FORMIK-%232563EB?logo=formik&logoColor=black) 
+![Static Badge](https://img.shields.io/badge/BULMA-%2300D1B2?logo=bulma&logoColor=black) ![Static Badge](https://img.shields.io/badge/REACT%20HOOK%20FORM-%23EC5990?logo=reacthookform&logoColor=black) ![Static Badge](https://img.shields.io/badge/FORMIK-%232563EB?logo=formik&logoColor=black) ![Zustand](https://img.shields.io/badge/ZUSTAND-%23443E38?style=flat&logo=zustand&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TAILWIND-%2306B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![React Router](https://img.shields.io/badge/REACT%20ROUTER-%23CA4245?style=flat&logo=reactrouter&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TANSTACK%20QUERY-%23FF4154?style=flat&logo=reactquery&logoColor=white)
+![Motion](https://img.shields.io/badge/MOTION-%23BB4B96?style=flat&logo=framer&logoColor=white)
 
 
 
