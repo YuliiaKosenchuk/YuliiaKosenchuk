@@ -14,6 +14,9 @@
 <a href="https://mail.google.com/mail/?view=cm&to=yuliia.kosenchuk@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=white" alt="Gmail">
 </a>
+<a href="https://kosenchuk-dev.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000?logo=vercel&logoColor=white" alt="Portfolio">
+</a>
 
 
 
