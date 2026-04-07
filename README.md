@@ -18,8 +18,6 @@
 <a href="https://kosenchuk-dev.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23000000?logo=vercel&logoColor=white" alt="Portfolio">
 </a>
-<br/>
-🌐 [View my portfolio](https://kosenchuk-dev.vercel.app)
 
 
 #### Top Technologies
