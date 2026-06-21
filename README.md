@@ -15,9 +15,9 @@
   <img src="https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=white" alt="Gmail">
 </a>
 <br/>
-<a href="https://kosenchuk-dev.vercel.app" target="_blank">
+<!-- <a href="https://kosenchuk-dev.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23000000?logo=vercel&logoColor=white" alt="Portfolio">
-</a>
+</a> -->
 
 
 #### Top Technologies
